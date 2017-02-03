@@ -10,9 +10,9 @@
     <property name="jmeter.home" value="D:\Program Files\apache-jmeter-3.1" />
     <property name="report.title" value="Mtime_interface_test"/>
     <!-- jmeter生成jtl格式的结果报告的路径--> 
-    <property name="jmeter.result.jtl.dir" value="D:\Program Files (x86)\Jenkins\workspace\jmter-test-windows\report" />
+    <property name="jmeter.result.jtl.dir" value=".\report" />
     <!-- jmeter生成html格式的结果报告的路径-->
-    <property name="jmeter.result.html.dir" value="D:\Program Files (x86)\Jenkins\workspace\jmter-test-windows\report" />
+    <property name="jmeter.result.html.dir" value=".\report" />
     <!-- 生成的报告的前缀-->  
     <property name="ReportName" value="Mtime_interface" />
     <property name="jmeter.result.jtlName" value="${jmeter.result.jtl.dir}/${ReportName}.jtl" />
