@@ -1,4 +1,4 @@
-？<?xml version="1.0" encoding="GB2312"?>  
+<?xml version="1.0" encoding="GB2312"?>  
 
 <project name="ant-jmeter-test" default="run" basedir=".">
 
